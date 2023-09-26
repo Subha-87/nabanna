@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nabanna/static/css/main.073c9b0a.css",
+    "main.js": "/nabanna/static/js/main.675efa08.js",
+    "static/js/787.b8033892.chunk.js": "/nabanna/static/js/787.b8033892.chunk.js",
+    "index.html": "/nabanna/index.html",
+    "main.073c9b0a.css.map": "/nabanna/static/css/main.073c9b0a.css.map",
+    "main.675efa08.js.map": "/nabanna/static/js/main.675efa08.js.map",
+    "787.b8033892.chunk.js.map": "/nabanna/static/js/787.b8033892.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.675efa08.js"
+  ]
+}
